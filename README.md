@@ -1,5 +1,4 @@
-pytorch implementation of basic kmeans algorithm(lloyd method with forgy initialization) with gpu support
-Adapted from [overshiki](https://github.com/overshiki/kmeans_pytorch)
+pytorch implementation of basic kmeans algorithm(lloyd method with forgy initialization) with gpu support, adapted from [overshiki](https://github.com/overshiki/kmeans_pytorch)
 
 usage:
 ```python
